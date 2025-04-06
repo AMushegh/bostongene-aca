@@ -1,0 +1,9 @@
+.with-line-through {
+  text-decoration: line-through;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
